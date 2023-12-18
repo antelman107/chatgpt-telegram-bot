@@ -1,4 +1,4 @@
-### Chat GPT proxy telegram bot
+### Chat GPT proxy telegram bot test
 ## Cases
 Post a message to a bot in direct chat.
 Telegram bot proxies request to Chat GPT `gpt-3.5-turbo` model.
