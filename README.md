@@ -12,3 +12,4 @@ TELEGRAM_BOT_TOKEN=xxx GPT_TOKEN=xxx chatgpt-telegram-bot
 # post message to the bot
 2023/05/06 11:53:48 [User] Message
 ```
+
